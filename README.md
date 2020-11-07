@@ -1,6 +1,6 @@
 # Mobius 
 
-Official repository for the paper [Data augmentation with Mobius transformations](https://arxiv.org/abs/2002.02917) by <a href="https://www.twitter.com/realsharonzhou">Sharon Zhou</a>, <a href="https://www.linkedin.com/in/jiequanzhang" target="_blank">Jiequan Zhang</a>, <a href="https://hjian42.github.io/" target="_blank">Hang Jiang</a>, <a href="https://scholar.google.com/citations?user=hYgvkugAAAAJ&hl=en" target="_blank">Torbjörn Lundh</a>, and <a href="https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en" target="_blank">Andrew Ng</a>.
+Official repository for the paper [Data augmentation with Mobius transformations](https://arxiv.org/abs/2002.02917) by <a href="https://www.twitter.com/realsharonzhou">Sharon Zhou</a>, <a href="https://jiequanz.github.io/" target="_blank">Jiequan Zhang</a>, <a href="https://hjian42.github.io/" target="_blank">Hang Jiang</a>, <a href="https://scholar.google.com/citations?user=hYgvkugAAAAJ&hl=en" target="_blank">Torbjörn Lundh</a>, and <a href="https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en" target="_blank">Andrew Ng</a>.
 
 ## Mobius Demo
 Apply Mobius transformations to your images!
